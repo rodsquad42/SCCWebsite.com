@@ -1,0 +1,17 @@
+.bg-my-color {
+  background-color: #2d92ad;
+}
+
+.btn-my-color {
+  background-color: #2d92ad;
+}
+
+.btn-my-color:hover {
+  background-color: #1a50aa;
+  cursor: pointer;
+}
+
+.text-my-color {
+  color: #2d92ad;
+}
+
